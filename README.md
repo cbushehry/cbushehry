@@ -1,4 +1,4 @@
-# Cameron Bushehry's Github Portfolio
+# Cameron Bushehry's GITHUB Portfolio
 * Currently enrolled in UC Berkeleys coding bootcamp
 * This repository contains information about what you will find on my Github Profile
 * Tools and Technologies: HTML, CSS, JavaScript, REACT, Heroku, Node.JS, Express.js, MySQL, MongoDB, Sequelize, and many more!
