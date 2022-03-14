@@ -1,20 +1,18 @@
 # Cameron's GITHUB Portfolio
 
-Currently enrolled in UC Berkeleys coding bootcamp. Asipiring to become a full time Full Stack Web Developer by end of year 2022.
+Recently graduated from full-stack web-development program at UC Berkeley Coding Boot Camp in January 2022. Currently focusing on improving my JavaScript and backend abilities. Aspiring to become a full time web developer by the end of 2022. 
 This repository contains information about what you will find on my Github Profile.
 
 Tools and Technologies: 
   * HTML 
   * CSS 
   * JavaScript 
-  * REACT 
-  * Heroku 
+  * jQuery
   * Node.JS
-  * Express.js 
-  * MySQL
-  * NoSQL
+  * Express
+  * MySQL/Sequelize
   * MongoDB
-  * Sequelize
+  * REACT
 
 LINKEDIN: https://www.linkedin.com/in/cbushehry/
 Contact Me @ c.bushehry@gmail.com
