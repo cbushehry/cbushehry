@@ -14,8 +14,7 @@ Tools and Technologies:
   * MongoDB
   * REACT
 
-LINKEDIN: https://www.linkedin.com/in/cbushehry/
-Contact Me @ c.bushehry@gmail.com
+LINKEDIN: https://www.linkedin.com/in/cbushehry/  |  EMAIL: c.bushehry@gmail.com
 
 <!---
 cbushehry/cbushehry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
