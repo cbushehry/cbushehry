@@ -1,7 +1,6 @@
 # Cameron's GITHUB Portfolio
 
-Recently graduated from the full-stack web-development program at UC Berkeley Coding Boot Camp in January 2022. Currently focusing on improving my JavaScript and backend abilities. Aspiring to become a full time web developer by the end of 2022. 
-This repository contains information about what you will find on my Github profile.
+Recently graduated from the UC Berkeley Coding Boot Camp full-stack web-development program in January 2022. Currently focusing on improving my JavaScript and backend abilities. Aspiring to become a full time web developer by the end of 2022. This repository contains various full-stack web development projects that ive worked on over the last few months. 
 
 Tools and Technologies: 
   * HTML 
