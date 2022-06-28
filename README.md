@@ -7,6 +7,7 @@ Tools and Technologies:
   * CSS 
   * JavaScript 
   * jQuery
+  * Bootstrap
   * Node.JS
   * Express
   * MySQL/Sequelize
