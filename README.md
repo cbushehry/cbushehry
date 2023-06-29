@@ -1,16 +1,19 @@
 # Cameron's GITHUB Portfolio
 
-Aspiring full-stack web developer. Recently Completed the UC Berkeley Coding Boot Camp full-stack web development program in January 2022. Currently focusing on improving my JavaScript, Python and back-end abilities. This repository contains various full-stack web development projects that I've worked on over the last few months. 
+Aspiring full-stack web developer. Recently Completed the UC Berkeley Coding Boot Camp full-stack web development program in January 2022. Currently focusing on improving my JavaScript, Python and back-end abilities. This repository contains various full-stack web development projects that I've worked on over my time programming. 
 
 TECH STACK: 
-  * HTML / CSS / Bootstrap
-  * JavaScript / jQuery
-  * TypeScript
+  * PYTHON
+  * HTML / CSS
+    * Bootstrap
+  * JavaScript
+    * jQuery / TypeScript
   * REACT
   * Node.JS / Express
   * MySQL / Sequelize
   * MongoDB
-  * Python
+
+<br></br>
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
