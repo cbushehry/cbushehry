@@ -9,7 +9,7 @@ TECH STACK:
   * JavaScript
     * jQuery / TypeScript
   * REACT
-  * Node.JS / Express
+  * Node.js / Express.js
   * MySQL / Sequelize
   * MongoDB
 <br></br>
