@@ -8,6 +8,7 @@ TECH STACK:
     * Bootstrap
   * JavaScript
     * jQuery / TypeScript
+    * Phaser.js
   * REACT
   * Node.js / Express.js
   * MySQL / Sequelize
