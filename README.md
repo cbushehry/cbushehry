@@ -9,6 +9,7 @@ TECH STACK:
   * JavaScript
     * jQuery / TypeScript
     * Phaser.js
+    * Kontra.js
   * REACT
   * Node.js / Express.js
   * MySQL / Sequelize
