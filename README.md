@@ -1,6 +1,6 @@
 # Cameron's GITHUB Portfolio
 
-Aspiring full-stack web developer. Recently Completed the UC Berkeley Coding Boot Camp full-stack web development program in January 2022. Currently focusing on improving my JavaScript, Python and back-end abilities. This repository contains various full-stack web development projects that I've worked on over my time programming. 
+Aspiring full-stack web developer. Currently focusing on improving my JavaScript, Python and back-end abilities. This repository contains various full-stack web development projects that I've worked on over my time programming. 
 <br></br>
 TECH STACK: 
   * PYTHON
