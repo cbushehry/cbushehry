@@ -3,6 +3,7 @@
 Aspiring full-stack web developer. Currently focusing on improving my JavaScript, Python and back-end abilities. This repository contains various full-stack web development projects that I've worked on over my time programming. 
 <br></br>
 TECH STACK: 
+  * C
   * PYTHON
   * HTML / CSS
     * Bootstrap
