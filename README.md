@@ -1,19 +1,18 @@
 # Cameron's GITHUB Portfolio
 
-Aspiring full-stack web developer. Currently focusing on improving my JavaScript, Python and back-end abilities. This repository contains various full-stack web development projects that I've worked on over my time programming. 
-<br></br>
-TECH STACK: 
-  * PYTHON
-  * HTML / CSS
-    * Bootstrap
-  * JavaScript
-    * jQuery / TypeScript
-    * Phaser.js
-    * Kontra.js
-  * REACT
-  * Node.js / Express.js
-  * MySQL / Sequelize
-  * MongoDB
+👋 Hi there! I'm an aspiring full-stack web developer passionate about building dynamic and responsive web applications. My journey in web development spans from crafting simple HTML pages to developing complex, interactive web applications using a modern tech stack.
+
+🚀 Current Endeavors: I am currently honing my skills in JavaScript and Python, with a keen interest in deepening my back-end development capabilities. This repository serves as a live portfolio showcasing a variety of projects that reflect my growth and learning in full-stack development.
+
+🛠️ Tech Stack I Use:
+
+Languages & Frameworks: Python, JavaScript (including jQuery and TypeScript), React
+Front-End Development: HTML, CSS, Bootstrap, Phaser.js, Kontra.js
+Back-End Development: Node.js, Express.js
+Databases: MySQL, Sequelize, MongoDB
+📈 Each project here is a stepping stone that further solidifies my foundation and expands my understanding of web technologies. My goal is to continuously improve and push the boundaries of what I can create, ensuring that each line of code not only serves a purpose but is also part of a great user experience.
+
+🌐 I'm always on the lookout for new techniques and best practices, and I enjoy collaborating with others who are equally passionate about building amazing digital experiences. Feel free to explore my repositories and reach out if you'd like to connect!
 <br></br>
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
