@@ -10,7 +10,7 @@ Languages & Frameworks: Python, JavaScript (including jQuery and TypeScript), Re
 Front-End Development: HTML, CSS, Bootstrap, Phaser.js, Kontra.js
 Back-End Development: Node.js, Express.js
 Databases: MySQL, Sequelize, MongoDB
-📈 Each project here is a stepping stone that further solidifies my foundation and expands my understanding of web technologies. My goal is to continuously improve and push the boundaries of what I can create, ensuring that each line of code not only serves a purpose but is also part of a great user experience.
+
 
 🌐 I'm always on the lookout for new techniques and best practices, and I enjoy collaborating with others who are equally passionate about building amazing digital experiences. Feel free to explore my repositories and reach out if you'd like to connect!
 <br></br>
