@@ -7,8 +7,11 @@
 🛠️ Tech Stack I Use:
 
 Languages & Frameworks: Python, JavaScript (including jQuery and TypeScript), React
+<br></br>
 Front-End Development: HTML, CSS, Bootstrap, Phaser.js, Kontra.js
+<br></br>
 Back-End Development: Node.js, Express.js
+<br></br>
 Databases: MySQL, Sequelize, MongoDB
 
 <br></br>
