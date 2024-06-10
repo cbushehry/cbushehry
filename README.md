@@ -1,8 +1,8 @@
 # Cameron's GITHUB Portfolio
 
-👋 Hi there! I'm an aspiring full-stack web developer passionate about building dynamic and responsive web applications. My journey in web development spans from crafting simple HTML pages to developing complex, interactive web applications using a modern tech stack.
+👋 Hi there! I'm an aspiring full-stack web developer passionate about building dynamic and responsive web applications. My journey in web development spans from crafting simple HTML pages to developing complex, interactive web applications using a modern tech stack. This repository serves as a live portfolio showcasing a variety of projects that reflect my growth and learning in full-stack development.
 
-🚀 Current Endeavors: I am currently honing my skills in JavaScript, Python and back-end development capabilities. This repository serves as a live portfolio showcasing a variety of projects that reflect my growth and learning in full-stack development.
+🚀 Current Endeavors: I am currently honing my skills in JavaScript, Python and back-end development capabilities.
 
 🛠️ Tech Stack I Use:
 
