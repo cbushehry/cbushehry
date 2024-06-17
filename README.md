@@ -3,7 +3,7 @@
 <!--- cbushehry/cbushehry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes. --->
 
-Hello there! 👋
+Hello there! 👋  
 <p>
   I'm an aspiring full-stack web developer with a passion for learning new technologies. 
   My journey in web development spans from crafting simple HTML pages to developing complex, interactive web applications using a modern tech stack. 
@@ -13,7 +13,7 @@ Hello there! 👋
 #### Operating Systems
 <p align="left">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" style="width:100px;height:30px;" />
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" style="width:100px;height:30px;" />
+  <img src="https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" style="width:100px;height:30px;" />
   <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" style="width:100px;height:30px;" />
 </p>
 
@@ -38,7 +38,7 @@ Hello there! 👋
 #### Other Languages
 <p align="left">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" style="width:100px;height:30px;" />
-  <img src="https://img.shields.io/badge/phaser-3-FA7343?style=for-the-badge&logo=phaser&logoColor=white" style="width:100px;height:30px;" />
+  <img src="https://img.shields.io/badge/phaser3.js-FA7343?style=for-the-badge&logo=javascript&logoColor=white" style="width:100px;height:30px;" />
   <img src="https://img.shields.io/badge/kontra.js-ff6347?style=for-the-badge&logo=javascript&logoColor=white" style="width:100px;height:30px;" />
 </p>
 
