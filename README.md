@@ -1,6 +1,8 @@
 # Cameron's GITHUB Portfolio
 
-👋 Hi there! I'm an aspiring full-stack web developer passionate about building dynamic and responsive web applications. My journey in web development spans from crafting simple HTML pages to developing complex, interactive web applications using a modern tech stack. This repository serves as a live portfolio showcasing a variety of projects that reflect my growth and learning in full-stack development. I am currently honing my skills in JavaScript, Python and back-end development capabilities.
+👋 Hi there! 
+<br></br>
+I'm an aspiring full-stack web developer passionate about building dynamic and responsive web applications. My journey in web development spans from crafting simple HTML pages to developing complex, interactive web applications using a modern tech stack. This repository serves as a live portfolio showcasing a variety of projects that reflect my growth and learning in full-stack development. I am currently honing my skills in JavaScript, Python and back-end development capabilities.
 
 🛠️ Tech Stack I Use:
 Languages & Frameworks: Python, JavaScript (including jQuery and TypeScript), React<br></br>
@@ -21,6 +23,19 @@ Databases: MySQL, Sequelize, MongoDB
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
+<br></br>
+### GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=cbushehry&show_icons=true)
+
+### GitHub Profile Stats
+
+![Your GitHub Profile Stats](https://github-readme-streak-stats.herokuapp.com/?user=cbushehry)
+
+### Most Used Languages
+
+![Your Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cbushehry&layout=compact)
+
 
 <!---
 cbushehry/cbushehry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
