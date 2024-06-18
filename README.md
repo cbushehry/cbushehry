@@ -42,11 +42,9 @@ Hello there! 👋
   <img src="https://img.shields.io/badge/kontra.js-ff6347?style=for-the-badge&logo=javascript&logoColor=white" style="width:100px;height:30px;" />
 </p>
 
-### GITHUB Stats
-![Your Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cbushehry&layout=compact)
-<br></br>
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=cbushehry&show_icons=true)
 ![Your GitHub Profile Stats](https://github-readme-streak-stats.herokuapp.com/?user=cbushehry)
+![Your Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cbushehry&layout=compact)
 
 ### Contact Me
   [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cbushehry)
@@ -54,7 +52,7 @@ Hello there! 👋
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:c.bushehry@gmail.com)
 
 <!---
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -65,8 +63,5 @@ Hello there! 👋
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
-![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 --->
 
