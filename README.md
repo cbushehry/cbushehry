@@ -6,8 +6,8 @@ You can click the Preview link to take a look at your changes. --->
 Hello there! 👋  
 <p>
   I'm an aspiring full-stack web developer with a passion for learning new technologies. 
-  My journey in web development spans from crafting simple HTML pages to developing complex, interactive web applications using a modern tech stack. 
-  I am currently honing my skills in front-end and back-end development capabilities, while also learning new languages like C and python.
+  My journey in web development spans from crafting simple HTML pages to developing interactive web applications using a modern tech stack.
+  I am currently deepening my expertise in JavaScript and frameworks like React and Node.js, while also expanding my skills in Python and exploring game development.
 </p>
 
 #### Operating Systems
