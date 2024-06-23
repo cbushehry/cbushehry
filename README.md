@@ -7,7 +7,7 @@ Hello there! 👋
 <p>
   I'm an aspiring full-stack web developer with a passion for learning new technologies. 
   My journey in web development spans from crafting simple HTML pages to developing interactive web applications using a modern tech stack.
-  I am currently deepening my expertise in JavaScript and frameworks like React and Node.js, while also expanding my skills in Python and exploring game development.
+  I am currently deepening my expertise in JavaScript and frameworks like React, while also expanding my skills in Node.js, Python, and exploring game development.
 </p>
 
 #### Operating Systems
