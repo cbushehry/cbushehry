@@ -3,7 +3,9 @@ You can click the Preview link to take a look at your changes. --->
 
 <div align="center">
 
-### Hello there! 👋
+<img src="https://user-images.githubusercontent.com/42115530/92640221-9728ca00-f2fa-11ea-8994-c72b26e937de.gif" alt="Hello, world! GIF" />
+
+### Cameron Bushehry
 
 <p>
   I'm an aspiring full-stack web developer with a passion for learning new technologies. 
@@ -13,7 +15,13 @@ You can click the Preview link to take a look at your changes. --->
 
 <hr>
 
-### Tools & Technologies
+### 🛠️ Tools & Technologies
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" style="width:100px;height:30px;" />
+  <img src="https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" style="width:100px;height:30px;" />
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" style="width:100px;height:30px;" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
@@ -42,6 +50,7 @@ You can click the Preview link to take a look at your changes. --->
 ### GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=cbushehry&show_icons=true)
+<br>
 ![Your Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cbushehry&layout=compact)
 
 <hr>
