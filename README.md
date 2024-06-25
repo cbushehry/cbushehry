@@ -39,8 +39,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/phaser3.js-FA7343?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/kontra.js-ff6347?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Phaser%203-darkgrey?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/Kontra.js-orange?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 </p>
 
 <hr>
