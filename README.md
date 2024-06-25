@@ -1,6 +1,3 @@
-<!--- cbushehry/cbushehry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes. --->
-
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/42115530/92640221-9728ca00-f2fa-11ea-8994-c72b26e937de.gif" alt="Hello, world! GIF" />
@@ -21,6 +18,7 @@ You can click the Preview link to take a look at your changes. --->
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" style="width:100px;height:30px;" />
   <img src="https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" style="width:100px;height:30px;" />
   <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" style="width:100px;height:30px;" />
+  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
 </p>
 
 <p align="center">
@@ -64,13 +62,3 @@ You can click the Preview link to take a look at your changes. --->
 </p>
 
 </div>
-
-<!--- #### Operating Systems
-<p align="left">
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" style="width:100px;height:30px;" />
-  <img src="https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" style="width:100px;height:30px;" />
-  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" style="width:100px;height:30px;" />
-</p>  ---!>
-
-<!--- cbushehry/cbushehry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes. --->
