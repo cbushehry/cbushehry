@@ -45,8 +45,6 @@
 
 <hr>
 
-### GitHub Stats
-
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=cbushehry&show_icons=true)
 <br>
 ![Your Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cbushehry&layout=compact)
