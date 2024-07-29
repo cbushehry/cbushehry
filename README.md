@@ -43,9 +43,9 @@
 
 <hr>
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=cbushehry&theme=dark&show_icons=true&hide=contribs,issues)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=cbushehry&theme=onedark&show_icons=true&hide=contribs,issues)
 <br>
-![Your Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cbushehry&theme=dark&layout=compact)
+![Your Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cbushehry&theme=onedark&layout=compact)
 
 <hr>
 
